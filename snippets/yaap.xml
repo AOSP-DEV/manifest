@@ -15,8 +15,8 @@
   <!-- <project path="art" name="art" remote="yaap" />
   <project path="bionic" name="bionic" remote="yaap" />
   <project path="libcore" name="libcore" remote="yaap" />
-  <project path="manifest" name="yaap/manifest" remote="github" revision="twelve" />
   <project path="bootable/recovery" name="bootable_recovery" remote="yaap" /> -->
+  <project path="manifest" name="aosp-dev/manifest" remote="github" revision="thirteen" />
 
   <!-- Build -->
   <!-- <project path="build/make" name="build_make" remote="yaap" >

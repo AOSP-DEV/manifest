@@ -21,9 +21,6 @@
   <remove-project name="device/google/gs-common" />
   <remove-project name="device/google/raviole" />
   <remove-project name="device/google/raviole-kernel" />
-  <remove-project name="device/google/crosshatch" />
-  <remove-project name="device/google/crosshatch-kernel" />
-  <remove-project name="device/google/crosshatch-sepolicy" />
   <remove-project name="device/google/redbull" />
   <remove-project name="device/google/redbull-sepolicy" />
   <remove-project name="device/google/redbull-kernel" />
@@ -55,7 +52,7 @@
   <!-- <remove-project name="platform/external/jemalloc_new" /> -->
   <!-- <remove-project name="platform/external/libjpeg-turbo" /> -->
   <remove-project name="platform/external/mksh" />
-  <remove-project name="platform/external/openssh" />
+  <!-- <remove-project name="platform/external/openssh" /> -->
   <!-- <remove-project name="platform/external/selinux" /> -->
   <!-- <remove-project name="platform/external/tinycompress" /> -->
   <!-- <remove-project name="platform/frameworks/av" /> -->
@@ -69,35 +66,36 @@
   <!-- <remove-project name="platform/hardware/qcom/sm7250/gps" /> -->
   <!-- <remove-project name="platform/hardware/qcom/sm7250/media" /> -->
   <!-- <remove-project name="platform/libcore" /> -->
-  <!-- <remove-project name="platform/packages/apps/Bluetooth" />
-  <remove-project name="platform/packages/apps/Camera2" />
+
+  <!-- <remove-project name="platform/packages/apps/Bluetooth" /> -->
+  <!-- <remove-project name="platform/packages/apps/Camera2" /> -->
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Contacts" />
   <remove-project name="platform/packages/apps/DeskClock" />
-  <remove-project name="platform/packages/apps/Dialer" />
+  <!-- <remove-project name="platform/packages/apps/Dialer" /> -->
   <remove-project name="platform/packages/apps/DocumentsUI" />
-  <remove-project name="platform/packages/apps/EmergencyInfo" />
-  <remove-project name="platform/packages/apps/Launcher3" />
+  <!-- <remove-project name="platform/packages/apps/EmergencyInfo" /> -->
+  <!-- <remove-project name="platform/packages/apps/Launcher3" /> -->
   <remove-project name="platform/packages/apps/Messaging" />
-  <remove-project name="platform/packages/apps/Nfc" />
-  <remove-project name="platform/packages/apps/ThemePicker" />
-  <remove-project name="platform/packages/apps/Settings" />
-  <remove-project name="platform/packages/apps/Stk" /> -->
+  <!-- <remove-project name="platform/packages/apps/Nfc" /> -->
+  <!-- <remove-project name="platform/packages/apps/ThemePicker" /> -->
+  <!-- <remove-project name="platform/packages/apps/Settings" /> -->
+  <remove-project name="platform/packages/apps/Stk" />
   <!-- <remove-project name="platform/packages/modules/Connectivity" />
   <remove-project name="platform/packages/modules/Permission" />
   <remove-project name="platform/packages/modules/Wifi" /> -->
   
-  <!-- <remove-project name="platform/packages/inputmethods/LatinIME" /> -->
-  <!-- <remove-project name="platform/packages/providers/BlockedNumberProvider" /> -->
-  <!-- <remove-project name="platform/packages/providers/BookmarkProvider" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
+  <remove-project name="platform/packages/providers/BlockedNumberProvider" />
+  <remove-project name="platform/packages/providers/BookmarkProvider" />
   <remove-project name="platform/packages/providers/CalendarProvider" />
   <remove-project name="platform/packages/providers/CallLogProvider" />
   <remove-project name="platform/packages/providers/ContactsProvider" />
-  <remove-project name="platform/packages/providers/DownloadProvider" />
+  <!-- <remove-project name="platform/packages/providers/DownloadProvider" /> -->
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/providers/TelephonyProvider" />
-  <remove-project name="platform/packages/services/Telecomm" /> -->
-  
+  <!-- <remove-project name="platform/packages/services/Telecomm" /> -->
+
   <!-- <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/memory/lmkd" />
